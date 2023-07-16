@@ -1,6 +1,6 @@
 # AdvancedNodeStarter
 
-Starting project for a course on Advanced Node @ Udemy
+Starting project Advanced Node implementing Redis like cache server
 
 ### Setup
 
