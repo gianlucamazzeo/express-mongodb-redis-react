@@ -1,9 +1,9 @@
 module.exports = {
   googleClientID:
-    "<googleusercontentId>",
-  googleClientSecret: "<secretContent>",
+  "70265989829-0t7m7ce5crs6scqd3t0t6g7pv83ncaii.apps.googleusercontent.com",
+googleClientSecret: "8mkniDQOqacXtlRD3gA4n2az",
   mongoURI:
-    "mongodb+srv://<Username>:<password>@<clusterMongodb>",
+  "mongodb+srv://gianluca:gianluca@cluster0.f5vcj.mongodb.net/?retryWrites=true&w=majority",
   cookieKey: "123123123",
 };
 
