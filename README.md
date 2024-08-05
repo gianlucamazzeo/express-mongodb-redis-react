@@ -1,3 +1,6 @@
+This app is a blog implementation that combines Express as the backend, MongoDB as the NoSQL data storage, Redis as the caching server, and React as the frontend. Users can create, read, blog posts, showcasing the basic functionality of a blog app. It offers a seamless blogging experience while exploring the capabilities of these technologies.
+
+
 # AdvancedNodeStarter
 
 Starting project Advanced Node implementing Redis like cache server
